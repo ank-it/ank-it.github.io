@@ -1,3 +1,3 @@
 # ank-it.github.io
 
-#This repository is for my own github website.
+#<h5> This is the repository for the current project. It is language translator and transliter.  <h5>
